@@ -1,0 +1,54 @@
+
+Host Name:                 PC
+OS Name:                   Microsoft Windows 11 Pro
+OS Version:                10.0.22621 N/A Build 22621
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          PC
+Registered Organization:   
+Product ID:                00331-10000-00001-AA808
+Original Install Date:     10.10.2022, 13:27:55
+System Boot Time:          04.11.2022, 21:18:14
+System Manufacturer:       System manufacturer
+System Model:              System Product Name
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: AMD64 Family 23 Model 113 Stepping 0 AuthenticAMD ~3793 Mhz
+BIOS Version:              American Megatrends Inc. 1407, 01.04.2020
+Windows Directory:         C:\Windows
+System Directory:          C:\Windows\system32
+Boot Device:               \Device\HarddiskVolume1
+System Locale:             pl;Polski
+Input Locale:              pl;Polski
+Time Zone:                 (UTC+01:00) Sarajewo, Skopie, Warszawa, Zagrzeb
+Total Physical Memory:     16 298 MB
+Available Physical Memory: 8 255 MB
+Virtual Memory: Max Size:  45 994 MB
+Virtual Memory: Available: 32 686 MB
+Virtual Memory: In Use:    13 308 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\PC
+Hotfix(s):                 3 Hotfix(s) Installed.
+                           [01]: KB5018341
+                           [02]: KB5019509
+                           [03]: KB5017233
+Network Card(s):           2 NIC(s) Installed.
+                           [01]: Realtek Gaming GbE Family Controller
+                                 Connection Name: Ethernet
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     192.168.100.1
+                                 IP address(es)
+                                 [01]: 192.168.100.21
+                                 [02]: fe80::dd4f:5b1a:24d1:b29e
+                           [02]: VirtualBox Host-Only Ethernet Adapter
+                                 Connection Name: VirtualBox Host-Only Network
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 169.254.106.2
+                                 [02]: fe80::cd32:7a72:768e:4641
+Hyper-V Requirements:      VM Monitor Mode Extensions: Yes
+                           Virtualization Enabled In Firmware: Yes
+                           Second Level Address Translation: Yes
+                           Data Execution Prevention Available: Yes
